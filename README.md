@@ -1,65 +1,101 @@
-ASP.NET Core
-============
+<div align="center">
 
-[![.NET Foundation](https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg)](https://www.dotnetfoundation.org/)
-[![MIT License](https://img.shields.io/github/license/dotnet/aspnetcore?color=%230b0&style=flat-square)](https://github.com/dotnet/aspnetcore/blob/main/LICENSE.txt) [![Help Wanted](https://img.shields.io/github/issues/dotnet/aspnetcore/help%20wanted?color=%232EA043&label=help%20wanted&style=flat-square)](https://github.com/dotnet/aspnetcore/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![Good First Issues](https://img.shields.io/github/issues/dotnet/aspnetcore/good%20first%20issue?color=%23512BD4&label=good%20first%20issue&style=flat-square)](https://github.com/dotnet/aspnetcore/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-[![Discord](https://img.shields.io/discord/732297728826277939?style=flat-square&label=Discord&logo=discord&logoColor=white&color=7289DA)](https://aka.ms/dotnet-discord)
+![Profile Views](https://komarev.com/ghpvc/?username=koteswararao9&color=blueviolet&style=flat-square&label=Profile+Views)
 
-ASP.NET Core is an open-source and cross-platform framework for building modern cloud-based internet-connected applications, such as web apps, IoT apps, and mobile backends. ASP.NET Core apps run on [.NET](https://dot.net), a free, cross-platform, and open-source application runtime. It was architected to provide an optimized development framework for apps that are deployed to the cloud or run on-premises. It consists of modular components with minimal overhead, so you retain flexibility while constructing your solutions. You can develop and run your ASP.NET Core apps cross-platform on Windows, Mac, and Linux. [Learn more about ASP.NET Core](https://learn.microsoft.com/aspnet/core/).
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
-## Get started
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tiruveedula+Koteswara+Rao!;Full+Stack+.NET+Developer+%F0%9F%9A%80;5%2B+Years+of+Experience;Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
 
-Follow the [Getting Started](https://learn.microsoft.com/aspnet/core/getting-started) instructions.
+</div>
 
-Also check out the [.NET Homepage](https://www.microsoft.com/net) for released versions of .NET, getting started guides, and learning resources.
+---
 
-See the [Triage Process](https://github.com/dotnet/aspnetcore/blob/main/docs/TriageProcess.md) document for more information on how we handle incoming issues.
+## 👨‍💻 About Me
 
-## How to engage, contribute, and give feedback
+I'm a passionate **Full Stack .NET Developer** with **5+ years** of experience building robust, scalable web applications. I love turning complex business problems into elegant technical solutions.
 
-Some of the best ways to contribute are to try things out, file issues, join in design conversations,
-and make pull-requests.
+- 🔭 Currently working on **enterprise-grade ASP.NET Core** applications
+- 🌱 Exploring **cloud-native architectures** with AWS & Azure
+- 💡 Passionate about **clean code**, **SOLID principles**, and **best practices**
+- 🎯 Always learning and growing — because the best code is always the next one
+- ⚡ Fun fact: I debug with console.log and I'm proud of it!
 
-* [Download our latest daily builds](./docs/DailyBuilds.md)
-* Follow along with the development of ASP.NET Core:
-    * [Community Standup](https://live.asp.net): The community standup is held every week and streamed live on YouTube. You can view past standups in the linked playlist.
-    * [Roadmap](https://aka.ms/aspnet/roadmap): The schedule and milestone themes for ASP.NET Core.
-* [Build ASP.NET Core source code](./docs/BuildFromSource.md)
-* Check out the [contributing](CONTRIBUTING.md) page to see the best places to log issues and start discussions.
+---
 
-## Reporting security issues and bugs
+## 🛠️ Tech Stack
 
-Security issues and bugs should be reported privately to the Microsoft Security Response Center (MSRC) via the [MSRC Researcher Portal](https://msrc.microsoft.com/report/vulnerability/new). You should receive a response within 24 hours. Further information can be found in the [MSRC Report an Issue FAQ](https://www.microsoft.com/msrc/faqs-report-an-issue). You can also find these instructions in this repo's [Security doc](SECURITY.md).
+### 🖥️ Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
-Also see info about related [Microsoft .NET Bounty Program](https://www.microsoft.com/msrc/bounty-dot-net-core).
+### 🗄️ Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Related projects
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
-These are some other repos for related projects:
+### 🔧 Tools & Others
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-* [Documentation](https://github.com/aspnet/Docs) - documentation sources for https://learn.microsoft.com/aspnet/core/
-* [Entity Framework Core](https://github.com/dotnet/efcore) - data access technology
-* [Runtime](https://github.com/dotnet/runtime) - cross-platform runtime for cloud, mobile, desktop, and IoT apps
-* [Razor](https://github.com/dotnet/razor) - the Razor compiler and tooling for working with Razor syntax (.cshtml, .razor)
+---
 
-## Code of conduct
+## 📊 GitHub Stats
 
-See [CODE-OF-CONDUCT](./CODE-OF-CONDUCT.md)
+<div align="center">
 
-## Nightly builds
+<img src="https://github-readme-stats.vercel.app/api?username=koteswararao9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=koteswararao9&theme=tokyonight" width="48%" alt="GitHub Streak" />
 
-This table includes links to download the latest builds of the ASP.NET Core Shared Framework. Also included are links to download the Windows Hosting Bundle, which includes the ASP.NET Core Shared Framework, the .NET Runtime Shared Framework, and the IIS plugin (ASP.NET Core Module). You can download the latest .NET Runtime builds [here](https://github.com/dotnet/runtime/blob/main/docs/project/dogfooding.md#nightly-builds-table), and the latest .NET SDK builds [here](https://github.com/dotnet/dotnet/blob/main/docs/builds-table.md). **If you're unsure what you need, then install the SDK; it has everything except the IIS plugin.**
+</div>
 
-| Platform | Shared Framework (Installer) | Shared Framework (Binaries) | Hosting Bundle (Installer) |
-| :--------- | :----------: | :----------: | :----------: |
-| **Windows x64** | [Installer](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-win-x64.exe) | [Binaries](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-win-x64.zip) | [Installer](https://aka.ms/dotnet/10.0/daily/dotnet-hosting-win.exe) |
-| **Windows x86** | [Installer](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-win-x86.exe) | [Binaries](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-win-x86.zip) | [Installer](https://aka.ms/dotnet/10.0/daily/dotnet-hosting-win.exe) |
-| **Windows arm64** | [Installer](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-win-arm64.exe) | [Binaries](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-win-arm64.zip) | [Installer](https://aka.ms/dotnet/10.0/daily/dotnet-hosting-win.exe) |
-| **macOS x64** | **N/A** | [Binaries](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-osx-x64.tar.gz) | **N/A** |
-| **macOS arm64** | **N/A** | [Binaries](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-osx-arm64.tar.gz) | **N/A** |
-| **Linux x64** | [Deb Installer](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-x64.deb) - [RPM Installer](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-x64.rpm) | [Binaries](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-linux-x64.tar.gz) | **N/A** |
-| **Linux arm** | **N/A** | [Binaries](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-linux-arm.tar.gz) | **N/A** |
-| **Linux arm64** | [RPM Installer](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-aarch64.rpm) | [Binaries](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-linux-arm64.tar.gz) | **N/A** |
-| **Linux-musl-x64** | **N/A** | [Binaries](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-linux-musl-x64.tar.gz) | **N/A** |
-| **Linux-musl-arm** | **N/A** | [Binaries](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-linux-musl-arm.tar.gz) | **N/A** |
-| **Linux-musl-arm64** | **N/A** | [Binaries](https://aka.ms/dotnet/10.0/daily/aspnetcore-runtime-linux-musl-arm64.tar.gz) | **N/A** |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koteswararao9&layout=compact&theme=tokyonight&langs_count=8" width="50%" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=koteswararao9&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koteswara-tiruveedula-a004761b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koteswararao9)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@koteswararao9)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@koteswararao9)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/koteswararao9)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Open to exciting opportunities & collaborations!
+
+**"Code is like humor. When you have to explain it, it's bad." — Cory House**
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
